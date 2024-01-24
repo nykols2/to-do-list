@@ -11,4 +11,4 @@ To-do List, uma aplicação simples, desenvolvida com HTML, CSS e JavaScript, in
 - [Documentação MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 📂 Acesse o projeto
-[Acesse o projeto aqui]()
+[Acesse o projeto aqui](https://to-do-list-nykol.vercel.app/)
